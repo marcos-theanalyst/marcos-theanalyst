@@ -1,3 +1,4 @@
 Hi 🌎, I’m Marcos and I’m a Data Analyst. Welcome to my portfolio!
 
-Find all of my projects here [`Projects`](https://github.com/marcos-garcia-csv/Projects)
+[`Projects`](https://github.com/marcos-garcia-csv/Projects)
+[`Certifications`](https://github.com/marcos-garcia-csv/Certifications/tree/main)
