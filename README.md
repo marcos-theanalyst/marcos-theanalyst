@@ -1,5 +1,28 @@
-Hi 🌎, I’m Marcos and I’m a Data Analyst. Welcome to my portfolio!
+# 👋 Hi, I'm Marcos – Data Analyst | Analista de Datos
 
-1. Find my projects [`here`](https://github.com/marcos-theanalyst/Project-Index/tree/main)
+Welcome to my portfolio!  
+Bienvenido/a a mi portafolio profesional.
 
-2. Find my certifications [`here`](https://github.com/marcos-garcia-csv/Certifications/tree/main)
+Here you'll find a collection of my data projects and certifications, showcasing my skills in data analysis, visualization, and storytelling – both in **English** and **Spanish**.
+
+---
+
+## 📂 Projects | Proyectos
+
+- 🇺🇸 **Projects in English** → [View here](https://github.com/marcos-theanalyst/Project-Index/tree/main)  
+- 🇪🇸 **Proyectos en Español** → [Ver aquí](https://github.com/marcos-theanalyst/Project-Index-Spanish)
+
+---
+
+## 📜 Certifications
+
+- 🧾 [View my certifications](https://github.com/marcos-garcia-csv/Certifications/tree/main)
+
+---
+
+## 🌐 About Me
+
+I'm passionate about turning data into insights that make a difference.  
+From dashboards to storytelling, I work across tools like **Excel**, **Power BI**, **Tableau**, and **Python**.
+
+---
