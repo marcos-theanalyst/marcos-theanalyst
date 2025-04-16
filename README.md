@@ -16,13 +16,9 @@ Here you'll find a collection of my data projects and certifications, showcasing
 
 ## [Certifications](https://github.com/marcos-garcia-csv/Certifications/tree/main)
 
-- 🧾 [View my certifications](https://github.com/marcos-garcia-csv/Certifications/tree/main)
-
----
-
-## 🌐 About Me
+## About Me
 
 I'm passionate about turning data into insights that make a difference.  
-From dashboards to storytelling, I work across tools like **Excel**, **Power BI**, **Tableau**, and **Python**.
+From dashboards to storytelling, I work across tools like **Excel**, **Power BI**, **Tableau**,**SQL** and **Python**.
 
 ---
