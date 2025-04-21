@@ -10,7 +10,7 @@ Here you'll find a collection of my data projects and certifications, showcasing
 ## Projects | Proyectos
 
 - 🇺🇸 **Projects in English** → [View here](https://github.com/marcos-theanalyst/Project-Index/tree/main)  
-- 🇪🇸 **Proyectos en Español** → [Ver aquí](https://github.com/marcos-theanalyst/Project-Index-Spanish)
+- 🇪🇸 **Proyectos en Español** → [Ver aquí](https://github.com/marcos-theanalyst/Index-Proyectos)
 
 ---
 
