@@ -14,15 +14,6 @@ Here you'll find a collection of my data projects and certifications, showcasing
 
 ---
 
-## 🔍 Highlights | Destacados
-
-- 📊 Built a dashboard in **Power BI** analyzing traffic fatalities in the Dominican Republic (2007–2023)
-- 🧹 Cleaned and transformed raw Excel datasets using **Power Query**
-- 📈 Published interactive dashboards in **Tableau Public**
-- 🧠 Conducted exploratory analysis with **Python** and **Pandas**
-
----
-
 ## [📜 Certifications](https://github.com/marcos-garcia-csv/Certifications/tree/main)
 
 ---
@@ -31,6 +22,8 @@ Here you'll find a collection of my data projects and certifications, showcasing
 
 I'm passionate about turning data into insights that make a difference.  
 From dashboards to storytelling, I work across tools like **Excel**, **Power BI**, **Tableau**, **SQL**, and **Python**.
+
+🎯 I'm actively looking for opportunities as a **Junior Data Analyst**, and I'm eager to contribute to data-driven decision-making in real-world environments.
 
 Let's connect!
 
