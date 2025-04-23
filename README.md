@@ -3,33 +3,43 @@
 Welcome to my portfolio!  
 Bienvenido/a a mi portafolio profesional.
 
-Here you'll find a collection of my data projects and certifications, showcasing my skills in data analysis, visualization, and data storytelling – in both **English** and **Spanish**.
+Here you'll find a curated collection of my data projects and certifications, showcasing my skills in data analysis, visualization, and storytelling — in both **English** and **Spanish**.
 
 ---
 
-## Projects | Proyectos
+## 📊 Projects | Proyectos
 
-- 🇺🇸 **Projects in English** → [View here](https://github.com/marcos-theanalyst/Project-Index/tree/main)  
+- 🇺🇸 **Projects in English** → [Explore here](https://github.com/marcos-theanalyst/Project-Index/tree/main)  
 - 🇪🇸 **Proyectos en Español** → [Ver aquí](https://github.com/marcos-theanalyst/Index-Proyectos)
 
 ---
 
-## [📜 Certifications](https://github.com/marcos-garcia-csv/Certifications/tree/main)
+## 🎓 Certifications | Certificaciones
+
+- [📜 View my certifications](https://github.com/marcos-garcia-csv/Certifications/tree/main)
 
 ---
 
-## About Me | Sobre mí
+## 👨‍💻 About Me | Sobre mí
 
-I'm passionate about turning data into insights that make a difference.  
-From dashboards to storytelling, I work across tools like **Excel**, **Power BI**, **Tableau**, **SQL**, and **Python**.
+I'm a bilingual **aspiring Data Analyst** passionate about transforming data into insights that drive impact.  
+My work blends **analytical thinking**, **visual storytelling**, and **technical skills** across tools like:
 
-🎯 I'm actively looking for opportunities as a **Junior Data Analyst**, and I'm eager to contribute to data-driven decision-making in real-world environments.
+- **SQL**
+- **Power BI**
+- **Excel**
+- **Tableau**
+- **Python**
 
-Let's connect!
+🎯 I'm actively seeking opportunities as a **Junior Data Analyst** where I can help teams make informed, data-driven decisions.
 
 ---
 
-## 📬 Contact | Contacto
+## 🤝 Let's Connect | Conectemos
 
-- [LinkedIn](https://www.linkedin.com/in/marcos-garc%C3%ADa-4a5786245/)
-- Email: marcos.businessinquiry@gmail.com
+- [🔗 LinkedIn](https://www.linkedin.com/in/marcos-garc%C3%ADa-4a5786245/)
+- 📧 Email: marcos.businessinquiry@gmail.com
+
+---
+
+> 🚀 Thank you for visiting my portfolio. Feedback is always welcome!
